@@ -17,7 +17,7 @@ O design do projeto pode ser acessado no seguinte link:
 ## 🌐 GitHub Pages
 
 Este projeto será publicado no GitHub Pages. Assim que estiver disponível, você poderá acessá-lo pelo seguinte link:
-[GitHub Pages - Desafio Responsividade](#)
+[GitHub Pages - Desafio Responsividade](https://github.com/JoannaBraccini/desafio-3-responsividade/deployments/github-pages)
 
 ## 📂 Estrutura do Projeto
 
