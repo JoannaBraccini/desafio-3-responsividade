@@ -36,7 +36,7 @@ Este projeto será publicado no GitHub Pages. Assim que estiver disponível, voc
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/JoannaBraccini/desafio-3-responsividade.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
